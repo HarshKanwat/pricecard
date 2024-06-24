@@ -1,3 +1,11 @@
 This is a GitHub learining
 that highlighted dot on name of file shows it's not saved yet
 and when you saved it it gone.
+(git init) command give you a empty repositery in git GitHub
+ (git remote -v)
+ after entering it into bas it shows
+ origin  https://github.com/HarshKanwat/Optional.git (fetch) (for download)
+ origin  https://github.com/HarshKanwat/Optional.git (push) (for uplode)
+ 
+Gitadd is used to send file to local directory to staying area and then local pepo (which is also called saving)
+after doing it we use push command to push our file to remote github
