@@ -12,4 +12,12 @@ after doing it we use push command to push our file to remote github
 git checkout -b "testing"
         it changed the destination to main to testing
 
-and after testing we will push our commang by()
+and after testing we will push our commang by(
+
+    git add .
+    git commit -m "now testing to main branch"
+    git push origin tell you to push data between to branches
+
+)
+git checkout -b "branch name"
+to create a new branch
