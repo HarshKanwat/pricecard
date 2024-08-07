@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+    padding: 20px;
+    background-color: bisque;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+body{
+  background-color: bisque;
+}
+  
